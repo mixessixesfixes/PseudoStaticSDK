@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PseudoStaticSDK"
-  s.version      = "0.1.4"
+  s.version      = "0.2.0"
   s.summary      = "A short description of PseudoStaticSDK."
 
   # This description is used to generate tags and improve search results.

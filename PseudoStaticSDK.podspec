@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PseudoStaticSDK"
-  s.version      = "0.1.3"
+  s.version      = "0.1.4"
   s.summary      = "A short description of PseudoStaticSDK."
 
   # This description is used to generate tags and improve search results.
@@ -133,6 +133,6 @@ Pod::Spec.new do |s|
   # s.dependency "JSONKit", "~> 1.4"
 
   #s.vendored_frameworks = 'PseudoStaticSDK.framework'
-  s.vendored_libraries = 'PseudoStaticSDK.framework/libPseudoStaticSDK.a'
+  s.vendored_libraries = 'PseudoStaticSDK.framework/PseudoStaticSDK'
 
 end

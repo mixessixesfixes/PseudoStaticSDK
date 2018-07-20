@@ -133,6 +133,6 @@ Pod::Spec.new do |s|
   # s.dependency "JSONKit", "~> 1.4"
 
   #s.vendored_frameworks = 'PseudoStaticSDK.framework'
-  s.vendored_libraries = 'PseudoStaticSDK.framework/PseudoStaticSDK'
+  s.vendored_libraries = 'PseudoStaticSDK.framework/libPseudoStaticSDK.a'
 
 end
